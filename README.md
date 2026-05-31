@@ -25,3 +25,7 @@
 - ⚡ Оптимизация производительности и загрузки изображений
 - [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://travel-agency-ten-beta.vercel.app/)
 👉 **[Посмотреть работающий сайт](https://travel-agency-ten-beta.vercel.app/)**
+## 📸 Скриншот
+
+![Главная страница](![Uploading туристическое агенство.png…]()
+)
