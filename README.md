@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="repository-open-graph-template (1)" src="https://github.com/user-attachments/assets/370c761b-1bf2-4b00-ae59-9bd8e50db803" />
+
 # ✈️ Travel Agency — современный сайт туристического агентства
 
 Адаптивный лендинг туристического агентства. Проект демонстрирует навыки вёрстки и работы с пользовательскими интерфейсами.
@@ -29,6 +29,6 @@
 ## 📸 Скриншот
 
 ![Главная страница]
-(<img width="1280" height="640" alt="repository-open-graph-template (1)" src="https://github.com/user-attachments/assets/bb0a09bf-bd01-4159-aebc-1bf91c1e737e" />
+(![Uploading туристическое агенство.png…]()
 )
 
