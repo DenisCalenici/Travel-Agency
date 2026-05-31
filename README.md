@@ -27,8 +27,6 @@
 - [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://travel-agency-ten-beta.vercel.app/)
 👉 **[Посмотреть работающий сайт](https://travel-agency-ten-beta.vercel.app/)**
 ## 📸 Скриншот
+<img src="https://github.com/user-attachments/assets/ab8edf84-f2f1-4404-868f-035d833bc7ad" alt="туристическое агенство" width="25%" />
 
-![Главная страница]
-( <img width="1332" height="831" alt="туристическое агенство" src="https://github.com/user-attachments/assets/ab8edf84-f2f1-4404-868f-035d833bc7ad" />
-)
 
