@@ -29,6 +29,6 @@
 ## 📸 Скриншот
 
 ![Главная страница]
-(![Uploading туристическое агенство.png…]()
+( <img width="1332" height="831" alt="туристическое агенство" src="https://github.com/user-attachments/assets/ab8edf84-f2f1-4404-868f-035d833bc7ad" />
 )
 
